@@ -1,0 +1,7 @@
+{
+  "name": "Momentum - Strategic Moments Finder",
+  "description": "A connection strategy tool powered by Gemini 3. Find verified cultural moments, generate grounded activation ideas, and visualize concepts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
