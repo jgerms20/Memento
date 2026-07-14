@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Art Basel Miami Beach visual treatment</title>
+  <desc id="desc">A gallery wall of vivid art blocks with palm shadows.</desc>
+  <rect width="900" height="500" fill="#f2e8d8"/>
+  <rect x="72" y="74" width="220" height="190" fill="#e65b48"/>
+  <rect x="310" y="74" width="220" height="190" fill="#1e6b63"/>
+  <rect x="548" y="74" width="280" height="190" fill="#f0c74e"/>
+  <rect x="72" y="286" width="340" height="130" fill="#e1a0c2"/>
+  <rect x="430" y="286" width="398" height="130" fill="#ee7146"/>
+  <circle cx="190" cy="166" r="54" fill="#f0c74e"/>
+  <path d="M374 106v126M338 150h74M650 100l86 140M736 100l-86 140" stroke="#f2e8d8" stroke-width="12"/>
+  <path d="M610 0l-78 500M660 0l80 500M710 0l-16 500" stroke="#1e4f49" stroke-width="18" opacity=".22"/>
+  <text x="72" y="458" fill="#263a38" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="4">ART / DESIGN / MIAMI</text>
+</svg>

@@ -12,6 +12,8 @@ export interface Moment {
   groundingUrls: string[];
   websiteUrl?: string;
   imageUrl?: string;
+  imageTreatment?: string;
+  startDate?: string;
   coordinates?: { lat: number; lng: number };
   matchScore?: number;
   matchReason?: string;

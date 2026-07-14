@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">US Open visual treatment</title>
+  <desc id="desc">A hard court with tennis ball arc and New York lights.</desc>
+  <rect width="900" height="500" fill="#102c42"/>
+  <rect y="315" width="900" height="185" fill="#d7653d"/>
+  <path d="M0 360h900M0 454h900M145 315v185M755 315v185M450 315v185" stroke="#f9efe0" stroke-width="5" opacity=".85"/>
+  <path d="M110 300h680" stroke="#f9efe0" stroke-width="8"/>
+  <path d="M100 210c180-150 480-150 680 0" fill="none" stroke="#e8c84a" stroke-width="10" stroke-dasharray="18 18"/>
+  <circle cx="100" cy="210" r="26" fill="#e8c84a"/>
+  <path d="M88 198l24 24M112 198l-24 24" stroke="#102c42" stroke-width="5"/>
+  <path d="M40 315V180h42v135M112 315V130h38v185M172 315V208h36v107M710 315V166h36v149M766 315V116h42v199M828 315V194h32v121" fill="#163e59"/>
+  <text x="66" y="458" fill="#f9efe0" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="4">SPORT / STYLE / CITY ENERGY</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Comic-Con visual treatment</title>
+  <desc id="desc">A purple convention skyline with comic speech bubbles and a bright star.</desc>
+  <rect width="900" height="500" fill="#201a45"/>
+  <path d="M0 388h900v112H0z" fill="#0e1025"/>
+  <path d="M70 388V210h94v178M198 388V158h112v230M350 388V236h86v152M476 388V132h132v256M649 388V198h86v190M766 388V244h72v144" fill="#332b6b"/>
+  <path d="M70 244h94M198 196h112M476 176h132M766 280h72" stroke="#f4c84e" stroke-width="8"/>
+  <path d="M104 102h212l32 44-32 44H104l-32-44z" fill="#ff5c5c"/>
+  <path d="M604 78h166l30 38-30 38H604l-30-38z" fill="#5ee0c5"/>
+  <circle cx="470" cy="92" r="28" fill="#f4c84e"/>
+  <path d="M470 34v-22M470 172v-22M412 92h-22M550 92h-22M430 52l-16-16M510 52l16-16" stroke="#f4c84e" stroke-width="8" stroke-linecap="round"/>
+  <path d="M128 148h28M180 148h52M634 116h74M728 116h16" stroke="#201a45" stroke-width="10" stroke-linecap="round"/>
+  <text x="72" y="458" fill="#f9f5e8" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="4">FANDOM / PARTICIPATION</text>
+</svg>

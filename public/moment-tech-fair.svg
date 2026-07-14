@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Technology fair visual treatment</title>
+  <desc id="desc">A connected grid of devices and signals in a clean blue room.</desc>
+  <rect width="900" height="500" fill="#172c45"/>
+  <path d="M0 356h900v144H0z" fill="#102033"/>
+  <path d="M80 86h740M80 170h740M80 254h740M190 44v270M350 44v270M510 44v270M670 44v270" stroke="#5f87b5" stroke-width="3" opacity=".7"/>
+  <rect x="176" y="108" width="126" height="84" fill="#72dbc5"/>
+  <rect x="388" y="148" width="164" height="106" fill="#ff735a"/>
+  <rect x="630" y="92" width="112" height="142" fill="#f0c850"/>
+  <circle cx="239" cy="150" r="18" fill="#172c45"/><circle cx="470" cy="201" r="22" fill="#172c45"/><circle cx="686" cy="162" r="19" fill="#172c45"/>
+  <path d="M239 192v90M470 254v36M686 234v48" stroke="#f7f2e7" stroke-width="8"/>
+  <text x="66" y="465" fill="#f7f2e7" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="4">IDEAS / SYSTEMS / FUTURE</text>
+</svg>

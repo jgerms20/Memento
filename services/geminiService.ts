@@ -1,10 +1,12 @@
 import type { ActivationStrategy, BrandProfile, Moment } from '../types';
+import type { UploadedFile } from '../types';
+import type { Chat } from '@google/genai';
 
 export async function findMoments(query: string, brand: BrandProfile): Promise<Moment[]> {
   const response = await fetch('/api/memento', {
     method: 'POST',
     headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ action: 'moments', query, brand })
+    body: JSON.stringify({ action: 'moments', query, brand, timeframe: brand.timeframe, customLocation: brand.customLocation, audience: brand.targetAudience })
   });
   if (!response.ok) throw new Error('Live discovery is unavailable. Showing the verified starter set.');
   const payload = await response.json();
@@ -34,4 +36,13 @@ export function localStrategy(brand: BrandProfile, moment: Moment): ActivationSt
     pastBrandActivations: ['Review organizer partner history before committing to a territory.'],
     estimatedReach: moment.estimatedReach || 'Validate with the organizer'
   };
+}
+
+// Compatibility fallbacks for legacy, currently unused components. Active discovery stays server-side.
+export function createChatSession(_systemInstruction: string): Chat {
+  return { sendMessage: async () => ({ text: 'Use the selected moment panel to build a grounded territory.' }) } as unknown as Chat;
+}
+
+export async function inferFieldFromContext(_field: string, _files: UploadedFile[], options: string[]): Promise<string | null> {
+  return options[0] || null;
 }
