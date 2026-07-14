@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Fashion week visual treatment</title>
+  <desc id="desc">A graphic runway silhouette framed by editorial color panels.</desc>
+  <rect width="900" height="500" fill="#f0d8ca"/>
+  <rect x="64" y="48" width="166" height="300" fill="#1c3f57"/>
+  <rect x="670" y="48" width="166" height="300" fill="#d9584b"/>
+  <path d="M450 108l-75 260h150z" fill="#f9efdc"/>
+  <circle cx="450" cy="100" r="34" fill="#1c3f57"/>
+  <path d="M420 138l-52 118M480 138l52 118M410 368l-44 82M490 368l44 82" stroke="#1c3f57" stroke-width="16" stroke-linecap="round"/>
+  <path d="M124 90v214M776 90v214" stroke="#f0d8ca" stroke-width="9"/>
+  <text x="66" y="465" fill="#1c3f57" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="4">STYLE / IDENTITY / SIGNAL</text>
+</svg>

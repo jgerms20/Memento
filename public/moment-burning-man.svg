@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Burning Man visual treatment</title>
+  <desc id="desc">A desert scene with a sculptural figure, sun, and radial playa lines.</desc>
+  <rect width="900" height="500" fill="#c45735"/>
+  <rect y="300" width="900" height="200" fill="#e4a65a"/>
+  <circle cx="688" cy="118" r="76" fill="#f8d47b"/>
+  <path d="M0 366h900M0 405h900M0 444h900" stroke="#bd6f43" stroke-width="5" opacity=".6"/>
+  <path d="M425 300V118M425 148l-80 88M425 148l82 88M425 190l-57 110M425 190l60 110" stroke="#221f33" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="425" cy="82" r="34" fill="#221f33"/>
+  <path d="M344 300h160" stroke="#221f33" stroke-width="18" stroke-linecap="round"/>
+  <path d="M160 300l54-78 54 78M690 300l52-74 54 74" fill="none" stroke="#f8d47b" stroke-width="10"/>
+  <text x="66" y="458" fill="#221f33" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="4">BUILD / GIFT / EXPERIMENT</text>
+</svg>

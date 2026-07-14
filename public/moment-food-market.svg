@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Food market visual treatment</title>
+  <desc id="desc">A bright market stall with produce, awnings, and shared-table energy.</desc>
+  <rect width="900" height="500" fill="#f4e5b1"/>
+  <path d="M0 206h900v44H0z" fill="#e15f45"/>
+  <path d="M0 206l70 44 70-44 70 44 70-44 70 44 70-44 70 44 70-44 70 44 70-44 70 44 70-44 70 44" fill="#2b7063"/>
+  <rect x="160" y="246" width="580" height="168" fill="#fff6df"/>
+  <path d="M232 344c36-58 82-58 118 0M462 344c36-72 86-72 122 0M628 344c22-46 50-46 72 0" stroke="#e15f45" stroke-width="40" stroke-linecap="round"/>
+  <circle cx="280" cy="292" r="28" fill="#e7b743"/><circle cx="370" cy="304" r="28" fill="#2b7063"/><circle cx="558" cy="292" r="28" fill="#e15f45"/><circle cx="662" cy="302" r="28" fill="#e7b743"/>
+  <text x="66" y="465" fill="#2b7063" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="4">TASTE / RITUAL / TABLE</text>
+</svg>
